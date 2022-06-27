@@ -1,0 +1,62 @@
+.title{
+    text-align: center;
+    background-color: steelblue;
+    font-size: 60px;
+}
+.bodyBg{
+    background-color: steelblue;
+}
+.title2{
+    text-align: center;
+    background-color: #c2170e;
+    font-size: 60px;
+}
+.title3{
+    text-align: center;
+    background-color:#c2170e;
+    font-size: 60px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.columns{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.column{
+    margin: 5px;
+    text-align: center;
+    
+}
+
+.h2heel{
+    text-align: center;
+    font-size: 15px;
+}
+
+.link{
+    color: white;
+}
+.link2{
+    color: green;
+}
+.h3heel{
+    text-align: center;
+    font-size: 20px;
+}
+.ton{
+    text-align: center;
+    background-color: #c2170e;
+    outline-color: rgb(11, 139, 126);
+    outline-width: 5px;
+    font-size: 30px;
+}
+.h12heel{
+    text-align: center;
+    font-size: 20px;
+
+}
